@@ -7,10 +7,6 @@
 ![Image text](./Small_ProjectInfo/RestoreData.jpg)
 
 《幻术启示录》输入图的数据
-<<<<<<< Updated upstream
-
-=======
->>>>>>> Stashed changes
 ![Image text](./Small_ProjectInfo/RestoreInputs.jpg)
 
 《幻术启示录》模型数据数据
