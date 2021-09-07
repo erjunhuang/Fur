@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Fur
+  m_Shader: {fileID: 4800000, guid: 7b76b1e0920744848b72f3b647556f16, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _FlowMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 78ad6cfc192a70d4dbd5ba051990feac, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskMap:
+        m_Texture: {fileID: 2800000, guid: 3d7df2cccf36eeb4586b33766b719ea2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseMap:
+        m_Texture: {fileID: 2800000, guid: c7378347e995ecb4f91d4732980a8ce7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - sam_other0_0:
+        m_Texture: {fileID: 2800000, guid: c7378347e995ecb4f91d4732980a8ce7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - sam_other1_1:
+        m_Texture: {fileID: 2800000, guid: 78ad6cfc192a70d4dbd5ba051990feac, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - sam_other2_2:
+        m_Texture: {fileID: 2800000, guid: 3d7df2cccf36eeb4586b33766b719ea2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - FurUVOffset: 0.005
+    - FurUVTilling: 3.5
+    - _Blur: 0
+    - _FurLength: 0.025
+    - _FurLightExposure: 10
+    - _FurUVOffset: 0.005
+    - _FurUVTilling: 3.5
+    - _Gammga: 2.2
+    - _Glossiness1: 0.2
+    - _Glossiness2: 0.1
+    - _GravityStrength: 0.3
+    - _LightFilter: 0.5
+    - _ReceiveShadows: 1
+    - _SSSColorStrength: 1.15
+    - _SpecShift1: 0.1
+    - _SpecShift2: 0.2
+    - _SpecSmooth1: 200
+    - _SpecSmooth2: 60
+    - _Thickness: 2.03
+    - light_strength_mod: 1.15
+    m_Colors:
+    - AddColor: {r: 1, g: 1, b: 1, a: 1}
+    - _AddColor: {r: 1, g: 1, b: 1, a: 1}
+    - _LightDir: {r: 0.5792281, g: -0.5735761, b: -0.5792281, a: 0.001}
+    - _OcclusionColor: {r: 0.6824, g: 0.6353, b: 0.61959994, a: 1}
+    - _SSSColor: {r: 1.0869565, g: 1.0869565, b: 1.0869565, a: 1}
+    - _SpecColor1: {r: 0.702, g: 0.6431, b: 0.651, a: 0}
+    - _SpecColor2: {r: 0.6039, g: 0.5294, b: 0.6, a: 0}
+    - _u_dir_light_attr_0: {r: 0, g: 0, b: 0, a: 0}
+    - _u_dir_light_attr_1: {r: 1.25, g: 1.25, b: 1.25, a: 3}
+    - _u_dir_light_attr_2: {r: 0, g: 0, b: 0, a: 0}
+    - _u_dir_light_attr_3: {r: 0.5792281, g: -0.5735761, b: -0.5792281, a: 0.001}
+    - _u_dir_light_attr_4: {r: 1, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
