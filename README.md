@@ -10,7 +10,6 @@
 ![Image text](./ProjectInfo/RestoreInputs.png)
 
 《幻术启示录》模型数据数据
-![Image text](./ProjectInfo/RestoreInputs.png)
 ![Image text](./ProjectInfo/RestoreMeshCSV.png)
 
 《幻术启示录》根据模型数据还原到unity
